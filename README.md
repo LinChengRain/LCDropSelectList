@@ -1,1 +1,3 @@
 # LCDropSelectList
+
+功能封装在DropSelectListView类中，在需要的地方初始化，设置基本属性就可以使用了
