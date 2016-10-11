@@ -18,7 +18,7 @@
     [super viewDidLoad];
     
     
-    NSArray *dataSource = @[@"iOS",@"Java",@"PHP",@"PHP"];
+    NSArray *dataSource = @[@"红色",@"黄色",@"蓝色",@"黑色"];
    
     // 设置数据源
     self.listView.listItems = dataSource;
